@@ -120,6 +120,13 @@
 			"dateLastModified": 1536926400
 		},
 		{
+			"id": "SCC",
+			"name": "Strixhaven: A Curriculum of Chaos",
+			"size": 18107967,
+			"version": "1.0",
+			"dateLastModified": 1639080237
+		},
+		{
 			"id": "SKT",
 			"name": "Storm King's Thunder",
 			"size": 21299679,
