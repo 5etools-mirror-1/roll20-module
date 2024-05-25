@@ -78,6 +78,13 @@
 			"dateLastModified": 1558461575
 		},
 		{
+			"id": "HoL",
+			"name": "The House of Lament",
+			"size": 16286262,
+			"version": "1",
+			"dateLastModified": 1622393622
+		},
+		{
 			"id": "HotDQ",
 			"name": "Hoard of the Dragon Queen",
 			"size": 9879353,
@@ -267,11 +274,11 @@
 			"dateLastModified": 1697647045
 		},
 		{
-			"id": "HoL",
-			"name": "The House of Lament",
-			"size": 16286262,
+			"id": "VEoR",
+			"name": "Vecna: Eve of Ruin",
+			"size": 21817050,
 			"version": "1",
-			"dateLastModified": 1622393622
+			"dateLastModified": 1716669887
 		},
 		{
 			"id": "WBtW",
