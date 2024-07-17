@@ -22,6 +22,13 @@
 			"dateLastModified": 1616097594
 		},
 		{
+			"id": "CoA",
+			"name": "Chains of Asmodeus",
+			"size": 23089169,
+			"version": "1.0",
+			"dateLastModified": 1721230195
+		},
+		{
 			"id": "CoS",
 			"name": "Curse of Strahd",
 			"size": 19892865,
@@ -160,6 +167,13 @@
 			"size": 20393290,
 			"version": "",
 			"dateLastModified": 1536926400
+		},
+		{
+			"id": "QftIS",
+			"name": "Quests from the Infinite Staircase",
+			"size": 26755927,
+			"version": "1.0",
+			"dateLastModified": 1721230195
 		},
 		{
 			"id": "Rkm",
