@@ -10,9 +10,9 @@
 		{
 			"id": "BMT",
 			"name": "The Book of Many Things",
-			"size": 9517464,
-			"version": "1.0",
-			"dateLastModified": 1700004717
+			"size": 9605872,
+			"version": "",
+			"dateLastModified": 1732574290
 		},
 		{
 			"id": "CM",
@@ -24,16 +24,16 @@
 		{
 			"id": "CoA",
 			"name": "Chains of Asmodeus",
-			"size": 23089169,
-			"version": "1.0",
-			"dateLastModified": 1721230195
+			"size": 23142606,
+			"version": "",
+			"dateLastModified": 1732574290
 		},
 		{
 			"id": "CoS",
 			"name": "Curse of Strahd",
-			"size": 19892865,
-			"version": "1.5",
-			"dateLastModified": 1555103370
+			"size": 30079152,
+			"version": "",
+			"dateLastModified": 1732574290
 		},
 		{
 			"id": "CRCotN",
@@ -52,23 +52,23 @@
 		{
 			"id": "DoSI",
 			"name": "Dragons of Stormwreck Isle",
-			"size": 2789607,
+			"size": 2789879,
 			"version": "",
-			"dateLastModified": 1725143472
+			"dateLastModified": 1732574290
 		},
 		{
 			"id": "DSotDQ",
 			"name": "Dragonlance: Shadow of the Dragon Queen",
-			"size": 12187962,
+			"size": 12201613,
 			"version": "1.0",
-			"dateLastModified": 1670363461
+			"dateLastModified": 1732574290
 		},
 		{
 			"id": "EGW",
 			"name": "Explorer's Guide to Wildemount",
-			"size": 14806900,
+			"size": 10269216,
 			"version": "1.0",
-			"dateLastModified": 1585160628
+			"dateLastModified": 1732574290
 		},
         {
 			"id": "ERLW",
@@ -87,9 +87,9 @@
 		{
 			"id": "HoL",
 			"name": "The House of Lament",
-			"size": 16286262,
-			"version": "1",
-			"dateLastModified": 1622393622
+			"size": 16365994,
+			"version": "",
+			"dateLastModified": 1732574290
 		},
 		{
 			"id": "HotDQ",
@@ -101,30 +101,30 @@
 		{
 			"id": "JttRC",
 			"name": "Journey through the Radiant Citadel",
-			"size": 6430426,
-			"version": "1.0",
-			"dateLastModified": 1658602194
+			"size": 17104393,
+			"version": "",
+			"dateLastModified": 1732574290
 		},
 		{
 			"id": "KftGV",
 			"name": "Keys from the Golden Vault",
-			"size": 20286368,
-			"version": "1.0",
-			"dateLastModified": 1677070058
+			"size": 20523435,
+			"version": "",
+			"dateLastModified": 1732574290
 		},
 		{
 			"id": "LMoP",
 			"name": "Lost Mine of Phandelver",
-			"size": 4791538,
+			"size": 5293040,
 			"version": "",
-			"dateLastModified": 1704209496
+			"dateLastModified": 1732574290
 		},
 		{
 			"id": "LoX",
 			"name": "Light of Xaryxis",
-			"size": 20528753,
+			"size": 20530113,
 			"version": "",
-			"dateLastModified": 1731885167
+			"dateLastModified": 1732574290
 		},
 		{
 			"id": "IDRotF",
@@ -157,9 +157,9 @@
 		{
 			"id": "PaBTSO",
 			"name": "Phandelver and Below: The Shattered Obelisk",
-			"size": 18665618,
-			"version": "1.0",
-			"dateLastModified": 1695508221
+			"size": 18753239,
+			"version": "",
+			"dateLastModified": 1732574290
 		},
 		{
 			"id": "PotA",
@@ -171,9 +171,9 @@
 		{
 			"id": "QftIS",
 			"name": "Quests from the Infinite Staircase",
-			"size": 26755927,
-			"version": "1.0",
-			"dateLastModified": 1721230195
+			"size": 27000526,
+			"version": "",
+			"dateLastModified": 1732574290
 		},
 		{
 			"id": "Rkm",
@@ -199,16 +199,16 @@
 		{
 			"id": "SCC",
 			"name": "Strixhaven: A Curriculum of Chaos",
-			"size": 18107967,
-			"version": "1.0",
-			"dateLastModified": 1639080237
+			"size": 16434588,
+			"version": "",
+			"dateLastModified": 1732574290
 		},
 		{
 			"id": "SKT",
 			"name": "Storm King's Thunder",
-			"size": 21299679,
-			"version": "2.1",
-			"dateLastModified": 1555103370
+			"size": 24002851,
+			"version": "",
+			"dateLastModified": 1732574290
 		},
 		{
 			"id": "STSS",
@@ -283,16 +283,16 @@
 		{
 			"id": "ToFW",
 			"name": "Turn of Fortune's Wheel",
-			"size": 16553685,
-			"version": "1",
-			"dateLastModified": 1697647045
+			"size": 16598439,
+			"version": "",
+			"dateLastModified": 1732574290
 		},
 		{
 			"id": "VEoR",
 			"name": "Vecna: Eve of Ruin",
-			"size": 21817050,
-			"version": "1",
-			"dateLastModified": 1716669887
+			"size": 21928359,
+			"version": "",
+			"dateLastModified": 1732574290
 		},
 		{
 			"id": "WBtW",

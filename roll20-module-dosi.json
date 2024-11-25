@@ -44,7 +44,7 @@
 				"id": "-N5BFZPEmHo9azzkj1Vw",
 				"placement": 2,
 				"path": ",",
-				"wrapperAutoColor": "#000000"
+				"wrapperAutoColor": "#75a1c2"
 			},
 			"graphics": [
 				{
@@ -2937,7 +2937,9 @@
 					"id": "-N8Bxv6JMWfc6NNDYvgH"
 				}
 			],
-			"paths": []
+			"paths": [],
+			"doors": [],
+			"windows": []
 		},
 		{
 			"attributes": {
@@ -7231,7 +7233,9 @@
 					"oneWayReversed": false,
 					"id": "-N6rzUNzOmtplSee7UlS"
 				}
-			]
+			],
+			"doors": [],
+			"windows": []
 		},
 		{
 			"attributes": {
@@ -13148,7 +13152,9 @@
 					"_type": "path",
 					"id": "-N6ry9wopbNGKUpVtGoD"
 				}
-			]
+			],
+			"doors": [],
+			"windows": []
 		},
 		{
 			"attributes": {
@@ -16979,7 +16985,9 @@
 					"oneWayReversed": false,
 					"id": "-N6OzTRBuzykV3HvkO-N"
 				}
-			]
+			],
+			"doors": [],
+			"windows": []
 		},
 		{
 			"attributes": {
@@ -21222,7 +21230,9 @@
 					"_type": "path",
 					"id": "-N6s0VMlFh4kF3im5WJA"
 				}
-			]
+			],
+			"doors": [],
+			"windows": []
 		},
 		{
 			"attributes": {
@@ -22235,7 +22245,9 @@
 				}
 			],
 			"text": [],
-			"paths": []
+			"paths": [],
+			"doors": [],
+			"windows": []
 		},
 		{
 			"attributes": {
@@ -23259,7 +23271,9 @@
 					"oneWayReversed": false,
 					"id": "-N8ysqkybuQ086R0tE1V"
 				}
-			]
+			],
+			"doors": [],
+			"windows": []
 		},
 		{
 			"attributes": {
@@ -23304,7 +23318,7 @@
 				"id": "-NAXVCCYRVqtwR1fpdZw",
 				"placement": 0,
 				"path": ",",
-				"wrapperAutoColor": "#ffffff"
+				"wrapperAutoColor": "#75a1c2"
 			},
 			"graphics": [
 				{
@@ -23416,7 +23430,9 @@
 				}
 			],
 			"text": [],
-			"paths": []
+			"paths": [],
+			"doors": [],
+			"windows": []
 		}
 	],
 	"rolltables": [
